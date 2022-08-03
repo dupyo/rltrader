@@ -21,7 +21,7 @@
 
 ## 환경설정
 - [Anaconda 3.7+](https://www.anaconda.com/distribution/)
-- [Python 3.6(downgrade)](https://www.python.org/)
+- [Python 3.6(downgrade)](https://www.python.org/downloads/release/python-367rc2/)
   - `conda install python=3.6`
 - [TensorFlow 2.7.0](https://www.tensorflow.org/)
   - `pip install tensorflow==2.7.0`
